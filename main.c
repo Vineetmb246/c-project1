@@ -1,0 +1,6 @@
+main()
+{
+	big();
+	fact();
+	rev();
+}
